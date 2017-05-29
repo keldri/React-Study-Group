@@ -1,5 +1,5 @@
 # React-Study-Group
-Projects from SD-React Study Group
+Projects from SD-React Study Group. We're working through the exercises on our own and going over as a team in our study group.
 
 ## Code examples for the React Book
 
